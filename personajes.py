@@ -173,3 +173,20 @@ enemigo_jefe_3 = Enemies("Destructor de Mundos", 900, "Jefe")
 enemigo_jefe_4 = Enemies("Titán Enfurecido", 920, "Jefe")
 enemigo_jefe_5 = Enemies("Eterno Desafío", 980, "Jefe")
 
+#Dugeons
+dungeon1 = Dungeons("Dungeon 1", 1)
+dungeon2 = Dungeons("Dungeon 2", 2)
+dungeon3 = Dungeons("Dungeon 3", 3)
+dungeon4 = Dungeons("Dungeon 4", 4)
+dungeon5 = Dungeons("Dungeon 5", 5)
+
+#Pociones
+Object("Pociones de Vida I", "potion_heal", 400, 50)
+Object("Pociones de Vida II", "potion_heal", 800, 75)
+Object("Pociones de Mana I", "potion_mana", 200, 50)
+Object("Pociones de Mana II", "potion_mana", 400, 75)
+Object("Pociones de Armor I", "potion_armor", 600, 50)
+Object("Pociones de Mana II", "potion_armor", 1200, 100)
+Object("Estofado", "food_heal", 300, 40)
+Object("Filete", "food_heal", 200, 30)
+Object("Pan", "food_heal", 150, 25)
