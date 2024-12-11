@@ -1,7 +1,7 @@
 # Final Project - Facundo Merino & Eliel Mato
 
 ## Overview
-This is the final project developed by Facundo Merino and Eliel Mato for the **Computer Engineering** course. The game is implemented using **Python** and leverages object-oriented programming concepts, including the use of classes, objects, and functions. The game allows players to explore dungeons, battle enemies, and use various abilities and objects such as armors and potions.
+This is the final project developed by Facundo Merino and Eliel Mato for the **Computer Science Engineering** degree program. The game is implemented using **Python** and leverages object-oriented programming concepts, including the use of classes, objects, and functions. The game allows players to explore dungeons, battle enemies, and use various abilities and objects such as armors and potions.
 
 ## Project Structure
 
